@@ -187,15 +187,15 @@ Helps prioritize machines that need reliability and maintenance attention.
 
 **Executive Overview**
 
-![Executive Overview](Screenshots/executive-overview.png)
+![Executive Overview](Screenshots/Executive Overview.png)
 
 **Downtime & Root Cause Analysis**
 
-![Downtime & Root Cause Analysis](Screenshots/downtime-root-cause.png)
+![Downtime & Root Cause Analysis](Screenshots/Downtime & Root cause.png)
 
 **Machine Performance & Risk**
 
-![Machine Performance & Risk](Screenshots/machine-performance.png)
+![Machine Performance & Risk](Screenshots/Machine Performance & Risk.png)
 
 ---
 
